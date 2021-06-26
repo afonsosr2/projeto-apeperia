@@ -1,2 +1,2 @@
 # projeto-apeperia
-Projeto desenvolvido durante o curso de Layouts Responsivos: Trabalhando com layouts mobile da Alura
+Arquivos do projeto para a Apeperia
